@@ -15,8 +15,6 @@
 **Key NOTE:** Keep that in mind tha LLMs are non-diterministic. Therefore, if you use LLMs for constructing the knowledge graph, you might get slightly different results on each execution.
 
 
-**YouTube video: [Link](https://youtu.be/3NP1llvtrbI?si=t8Gtu74_Mf0p6EFV)**
-
 ## Main underlying techniques used in this chatbot:
 - Knowledge graph construction
 - LLM chains and agents
